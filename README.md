@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./github-header-image.png">
 
-<h1 align="center">Hi 👋, I'mHamid</h1>
+<h1 align="center">Hi 👋, I'm Amine</h1>
 </div>
 <h3 align="center">A passionate CS student developer from DZ</h3>
 
