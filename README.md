@@ -1,3 +1,8 @@
+<div align="center">
+<img src="./github-header-image.png">
+
+<h1 align="center">Hi 👋, I'mHamid</h1>
+</div>
 <h3 align="center">A passionate CS student developer from DZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdidou-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hamdidou-dev" /> </p>
